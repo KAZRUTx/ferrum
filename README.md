@@ -37,4 +37,7 @@ Ferrum is not affiliated with or endorsed by Discord Inc. Client modifications a
 
 ## License
 
-GPL-3.0
+Copyright (C) 2026 KAZRUTx
+
+Ferrum is free software, licensed under the [GNU General Public License v3.0 or later](LICENSE).
+If you build on Ferrum, a credit back to this repo is appreciated.
